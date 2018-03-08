@@ -21,4 +21,4 @@ Used in conjunction with a udev rule that detects changes in monitor setup.
 
 ## `keyboard-backlight.py`
 
-This is a script from the Arch wiki that I have i3 bindings for.
+This is a script from the Arch wiki that I have i3 bindings for. It simply sets the keyboard backlight.
