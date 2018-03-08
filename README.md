@@ -1,5 +1,7 @@
 # Arch on Air Scripts
 
+![](https://raw.githubusercontent.com/tjhorner/arch-on-air-scripts/master/neofetch.png)
+
 This is a collection of scripts that I found useful when running Arch on my MacBook Air
 
 ## `monconfig.sh`
