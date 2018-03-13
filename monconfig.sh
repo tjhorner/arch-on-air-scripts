@@ -19,4 +19,4 @@ else
 fi
 
 # reset the wallpaper
-feh --bg-fill ~/wallpaper.png
+./chwallpaper.sh

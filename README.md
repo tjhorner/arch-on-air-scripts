@@ -24,3 +24,7 @@ Used in conjunction with a udev rule that detects changes in monitor setup.
 ## `keyboard-backlight.py`
 
 This is a script from the Arch wiki that I have i3 bindings for. It simply sets the keyboard backlight.
+
+## `chwallpaper.sh`
+
+This script sets the wallpaper (via `feh`) to a random image from `~/wallpapers`. It is run every 5 minutes from a cron job.
